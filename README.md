@@ -34,8 +34,8 @@ Ensure you have the following installed:
 Create a `.env` file in the root directory with the following environment variables:
 
 ```plaintext
-VITE_SERVER=<Backend Server URL>
-Replace <Backend Server URL> with the URL where your backend server is hosted or running locally.
+VITE_SERVER=(https://chatapp-server-1wnq.onrender.com)
+Replace (https://chatapp-server-1wnq.onrender.com) with the URL where your backend server is hosted or running locally.
 
 Installation
 Clone the repository:
